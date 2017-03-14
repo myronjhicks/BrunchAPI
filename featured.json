@@ -30,6 +30,13 @@
 					"category" : "Brunch",
 					"price" : "$$$",
 					"imageName" : "restaurant"
+				},
+				{
+					"id" : 1,
+					"name" : "Yolk",
+					"category" : "Brunch",
+					"price" : "$$$",
+					"imageName" : "restaurant"
 				}
 			]
 		}

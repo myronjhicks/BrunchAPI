@@ -1,11 +1,8 @@
 var express = require("express");
 var app = express();
 var bodyParser = require("body-parser");
-var mongoose = require("mongoose");
 
 var obj = require("./featured.json");
-
-mongoose.connect('mongodb://heroku_lz766k77:ekdru3r5pcaei83512lu96aetm@ds131340.mlab.com:31340/heroku_lz766k77');
 
 var Category = require('./app/models/category');
 
