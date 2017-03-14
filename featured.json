@@ -1,0 +1,37 @@
+{
+	"bannerCategory" : {
+		"name" : "",
+		"restaurants" : [
+			{
+				"imageName" : ""
+			},
+			{
+				"imageName" : ""
+			},
+			{
+				"imageName" : ""
+			},
+			{
+				"imageName" : ""
+			},
+			{
+				"imageName" : ""
+			}
+		],
+		"type" : ""
+	},
+	"categories" : [
+		{
+			"name" : "",
+			"restaurants" : [
+				{
+					"id" : 1,
+					"name" : "LoKal",
+					"category" : "Brunch",
+					"price" : "$$$",
+					"imageName" : "restaurant"
+				}
+			]
+		}
+	]
+}
